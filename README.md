@@ -1,6 +1,14 @@
 # json-stream-extract
 Extract specific JSON fields from a readable stream using limited allocations.
 
+## Installation
+https://www.npmjs.com/package/json-stream-extract
+
+```
+npm i json-stream-extract
+```
+
+## Usage
 ```javascript
 // myFile.json:
 // {
