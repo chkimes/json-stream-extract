@@ -1,7 +1,7 @@
 # json-stream-extract
 Extract specific JSON fields from a readable stream using limited allocations.
 
-```
+```javascript
 // myFile.json:
 // {
 //   "myField": "myValue",
